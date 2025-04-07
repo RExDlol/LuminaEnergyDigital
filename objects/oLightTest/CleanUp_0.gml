@@ -1,0 +1,2 @@
+surface_free(hor_surface)
+surface_free(vert_surface)

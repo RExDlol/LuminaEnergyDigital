@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sGlobal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sGlobal",
+  "parent":{
+    "name":"LeDLight",
+    "path":"folders/LeD/LeDLight.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

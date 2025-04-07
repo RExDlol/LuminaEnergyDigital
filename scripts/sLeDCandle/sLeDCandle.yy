@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sLeDCandle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sLeDCandle",
+  "parent":{
+    "name":"LeDLight",
+    "path":"folders/LeD/LeDLight.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

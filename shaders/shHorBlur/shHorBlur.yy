@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shHorBlur",
+  "name":"shHorBlur",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/LeD/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
